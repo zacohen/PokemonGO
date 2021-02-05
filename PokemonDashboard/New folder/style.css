@@ -1,0 +1,21 @@
+#para{
+    width:500px;
+    margin:50px ;
+    float:right;
+    top:-100px;
+}
+
+#image{
+    width:500px;
+    margin:5px ;
+    float:right;
+    top:-160px;
+}
+
+#chart{
+    width:500px;
+    margin:50px ;
+    float:left;
+    top:-40px;
+}
+
